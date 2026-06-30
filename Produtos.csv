@@ -1,11 +1,10 @@
 nome,setor,preco,quantidadePorClique
+Agua,BEBIDAS,3.50,1
+Suco Laranja,BEBIDAS,8.00,1
 Refrigerante,BEBIDAS,6.00,1
 Combo Refri,BEBIDAS,5.00,2
-Agua,BEBIDAS,3.50,1
 Cerveja,BEBIDAS,6.00,1
-Heineken,BEBIDAS,8.00,1
 Combo Cerveja,BEBIDAS,5.00,2
-Suco Laranja,BEBIDAS,8.00,1
+Heineken,BEBIDAS,8.00,1
 Feijoada,COMIDA,50.00,1
 Picole,COMIDA,3.00,1
-Teste,COMIDA,1.50,1
