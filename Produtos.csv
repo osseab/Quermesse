@@ -1,18 +1,18 @@
-nome,setor,preco,quantidadePorClique,desc01,desc02
-Batata Frita,COMIDA,10.00,1,Batata,Frita
-Mini Pizza,COMIDA,10.00,1,,
-Pastel,COMIDA,8.00,1,,
-Cachorro Quente,COMIDA,7.00,1,,
-Cuscuz Mole,COMIDA,8.00,1,,
-Arroz Doce,COMIDA,8.00,1,,
-Canjica,COMIDA,8.00,1,,
-Chocolate Quente,COMIDA,8.00,1,Chocolate,Quente
-Vinho Quente,COMIDA,8.00,1,,
-Quentão,COMIDA,8.00,1,,
-Refrigerante,BEBIDA,6.00,1,,
-Boa/Amstel,BEBIDA,7.00,1,,
-Heineken,BEBIDA,8.00,1,,
-Bingo KIT,DIVERSAO,2.50,4,,
-Bingo,DIVERSAO,3.00,1,,
-Roleta,DIVERSAO,2.00,1,,
-Correio Elegante,DIVERSAO,2.00,1,,
+nome,setor,preco,quantidadePorClique
+Batata Frita,COMIDA,10.00,1
+Mini Pizza,COMIDA,10.00,1
+Pastel,COMIDA,8.00,1
+Cachorro Quente,COMIDA,7.00,1
+Cuscuz Mole,COMIDA,8.00,1
+Arroz Doce,COMIDA,8.00,1
+Canjica,COMIDA,8.00,1
+Chocolate Quente,COMIDA,8.00,1
+Vinho Quente,COMIDA,8.00,1
+Quentão,COMIDA,8.00,1
+Refrigerante,BEBIDA,6.00,1
+Boa/Amstel,BEBIDA,7.00,1
+Heineken,BEBIDA,8.00,1
+Bingo KIT,DIVERSAO,2.50,4
+Bingo,DIVERSAO,3.00,1
+Roleta,DIVERSAO,2.00,1
+Correio Elegante,DIVERSAO,2.00,1
