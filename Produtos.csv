@@ -11,9 +11,9 @@ Vinho Quente,COMIDA,8.00,1
 Quentão,COMIDA,8.00,1
 Agua,BEBIDA,3.00,1
 Refrigerante,BEBIDA,6.00,1
-Boa/Amstel,BEBIDA,7.00,1
-Boa/Amstel Combo,BEBIDA,6.00,2
-Boa/Amstel Combo,BEBIDA,5.00,3
+Boa/Amstel -,BEBIDA,7.00,1
+Boa/Amstel --,BEBIDA,6.00,2
+Boa/Amstel ---,BEBIDA,5.00,3
 Heineken,BEBIDA,8.00,1
 Bingo,DIVERSAO,3.00,1
 Bingo KIT,DIVERSAO,2.50,4
