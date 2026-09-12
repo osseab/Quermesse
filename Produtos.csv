@@ -1,23 +1,10 @@
 nome,setor,preco,quantidadePorClique
-Pastel,COMIDA,8.00,1
-Batata Frita,COMIDA,10.00,1
-Mini Pizza,COMIDA,10.00,1
-Cachorro Quente,COMIDA,7.00,1
-Cuscuz Mole,COMIDA,8.00,1
-Arroz Doce,COMIDA,8.00,1
-Canjica,COMIDA,8.00,1
-Chocolate Quente,COMIDA,8.00,1
-Vinho Quente,BEBIDA,8.00,1
-Quentao,BEBIDA,8.00,1
-Agua,BEBIDA,3.00,1
-Refrigerante,BEBIDA,6.00,1
-Boa/Amstel -,BEBIDA,7.00,1
-Boa/Amstel --,BEBIDA,6.00,2
-Boa/Amstel ---,BEBIDA,5.00,3
-Heineken,BEBIDA,8.00,1
+Espeto,COMIDA,8.50,1
+Pudim,COMIDA,5.00,1
+Picole,COMIDA,2.50,1
+Agua,BEBIDA,3.50,1
+Cerveja,BEBIDA,6.00,1
+Boa/Brahma --,BEBIDA,5.00,2
+Refri,BEBIDA,6.00,1
+Refri --,BEBIDA,5.00,2
 Suco de Laranja,BEBIDA,8.00,1
-Bingo,DIVERSO,3.00,1
-Bingo KIT,DIVERSO,2.50,4
-Pesca e Boca Palhaco,DIVERSO,2.00,1
-Roleta,DIVERSO,2.00,1
-Correio Elegante,DIVERSO,3.00,1
