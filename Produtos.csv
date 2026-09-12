@@ -3,7 +3,8 @@ Espeto,COMIDA,8.50,1
 Pudim,COMIDA,5.00,1
 Picole,COMIDA,2.50,1
 Agua,BEBIDA,3.50,1
-Cerveja,BEBIDA,6.00,1
+Cerveja ,BEBIDA,6.00,1
+Heineken,BEBIDA,8.00,1
 Boa/Brahma --,BEBIDA,5.00,2
 Refri,BEBIDA,6.00,1
 Refri --,BEBIDA,5.00,2
