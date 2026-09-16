@@ -1,12 +1,22 @@
 nome,setor,preco,quantidadePorClique
-Jantar,COMIDA,30.00,1
-Espeto,COMIDA,8.50,1
-Pudim,COMIDA,5.00,1
-Picole,COMIDA,2.50,1
+nome,setor,preco,quantidadePorClique
+Frango Inteiro,COMIDA,48.00,1
+Frango Meio,COMIDA,32.00,1
+Lanche,COMIDA,20.00,1
+Cachorro Quente,COMIDA,12.00,1
+Mini Pizza,COMIDA,18.00,1
+Porcao (Polenta/Salgado),COMIDA,18.00,1
+Porcao (Batata Frita),COMIDA,20.00,1
+Pastel Salgado,COMIDA,10.00,1
+Pastel Doce,COMIDA,12.00,1
+Bolo Padroeira,COMIDA,10.00,1
+Sobremesa 08,COMIDA,8.00,1
+Sobremesa 12,COMIDA,12.00,1
 Agua,BEBIDA,3.50,1
 Cerveja ,BEBIDA,6.00,1
 Heineken,BEBIDA,8.00,1
-Boa/Brahma --,BEBIDA,5.00,2
+Combo (Boa/Brahma) --,BEBIDA,5.00,2
 Refri,BEBIDA,6.00,1
-Refri --,BEBIDA,5.00,2
-Suco de Laranja,BEBIDA,8.00,1
+Combo (Refri) --,BEBIDA,5.00,2
+Suco,BEBIDA,8.00,1
+Diversao,DIVERSO,2.00,1
