@@ -8,6 +8,7 @@ Porcao (Polenta/Salgado),COMIDA,18.00,1
 Porcao (Batata Frita),COMIDA,20.00,1
 Pastel Salgado,COMIDA,10.00,1
 Pastel Doce,COMIDA,12.00,1
+Bolo Padroeira,COMIDA,10.00,1
 Agua,BEBIDA,3.50,1
 Cerveja ,BEBIDA,6.00,1
 Heineken,BEBIDA,8.00,1
@@ -21,7 +22,6 @@ Sobremesa 10,DIVERSO,10.00,1
 Sobremesa 12,DIVERSO,12.00,1
 Sobremesa 14,DIVERSO,14.00,1
 Sobremesa 20,DIVERSO,20.00,1
-Bolo Padroeira,DIVERSO,10.00,1
 Diversao 02,DIVERSO,2.00,1
 Diversao 05,DIVERSO,5.00,1
 Diversao 10,DIVERSO,10.00,1
